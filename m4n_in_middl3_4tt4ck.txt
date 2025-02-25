@@ -1,0 +1,7 @@
+attack is a cyberattack where a hacker secretly intercepts communication between two parties. The attacker can steal data or alter communications to gain financial gain. 
+
+Hey, Vsauce! Michael here.
+
+Imagine you’re in a crowded café, sipping your coffee, connected to the free Wi-Fi. You feel safe, right? You’re just browsing, maybe checking your bank account, messaging a friend. But… what if I told you that someone else was reading everything you sent? Not just reading it—modifying it, manipulating it, changing reality itself?
+
+This is the unsettling world of Man-in-the-Middle (MitM) attacks.
