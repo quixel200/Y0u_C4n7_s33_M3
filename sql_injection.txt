@@ -1,0 +1,8 @@
+SQL injection is a code injection technique used to attack data-driven applications, in which malicious SQL statements are inserted into an entry field for execution.
+
+but ig theres no database here
+or is there?
+
+Hey Vsauce, Michael here. Where are your databases? Or rather... what is a database?
+You're reading this text right now, absorbing information through your eyes, processing it in your brain. But how did this information get to you? Where was it before? And more importantly... where is all the other information you're not seeing right now?
+A database is like a brain for computers. It stores memories, facts, relationships – but unlike your brain, which sometimes forgets your neighbor's name or where you put your keys, a database remembers everything... perfectly... forever... or at least until someone deletes it.
